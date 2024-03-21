@@ -45,4 +45,5 @@ here is the sample response/image returned from the API
   }
 },
 
-![Uploading image.png…]()
+![image](https://github.com/clarkkamorr24/encoretix/assets/43429968/48ea948c-a172-4283-952f-32aea6e35475)
+
